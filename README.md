@@ -1,4 +1,4 @@
 BranchDelete
 ============
 
-test repo
+initial test repository
